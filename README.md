@@ -10,5 +10,7 @@
 <img src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/SingleBiu&right_color=red" />
 </p>
 
+![](https://stats.justsong.cn/api/csdn?id=SeasonedDriverDG&theme=dark)
+
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SingleBiu&theme=dark&layout=compact)
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=SingleBiu&show_icons=true&theme=dark&count_private=true)
