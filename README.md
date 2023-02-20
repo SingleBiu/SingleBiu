@@ -13,5 +13,4 @@
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SingleBiu&theme=dark&layout=compact)
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=SingleBiu&show_icons=true&theme=dark&count_private=true)
 ![](https://stats.justsong.cn/api/csdn?id=SingleBiu&theme=dark)
-![](https://activity-graph.herokuapp.com/graph?username=SingleBiu&theme=github)
 
