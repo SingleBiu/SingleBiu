@@ -12,5 +12,5 @@
 
 ![](https://stats.justsong.cn/api/csdn?id=SeasonedDriverDG&theme=dark)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SingleBiu&theme=dark&layout=compact)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SingleBiu&theme=dark&layout=compact)  
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=SingleBiu&show_icons=true&theme=dark&count_private=true)
