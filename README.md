@@ -8,7 +8,6 @@
 <p>
 <img src="https://img.shields.io/static/v1?label=Program&message=C&color=yellow"/>
 <a href="https://blog.csdn.net/SeasonedDriverDG"><img src="https://img.shields.io/static/v1?label=Blog&message=CSDN&color=red"/></a>
-<img src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/SingleBiu&right_color=green" />
 </p>
 
 ![](https://stats.justsong.cn/api/csdn?id=SeasonedDriverDG&theme=light)
