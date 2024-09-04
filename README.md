@@ -5,6 +5,7 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome,%20visitor!;Hello%20Github%20World!&font=Roboto" />
 
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
+[![](https://img.shields.io/badge/IDE-Goland-purple?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://www.jetbrains.com/go/)
 <p>
 <img src="https://img.shields.io/static/v1?label=Program&message=C&color=yellow"/>
 <img src="https://img.shields.io/static/v1?label=Program&message=Go&color=blue"/>
