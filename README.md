@@ -7,7 +7,8 @@
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
 <p>
 <img src="https://img.shields.io/static/v1?label=Program&message=C&color=yellow"/>
-<a href="https://blog.csdn.net/SeasonedDriverDG"><img src="https://img.shields.io/static/v1?label=Blog&message=CSDN&color=red"/></a>
+<img src="https://img.shields.io/static/v1?label=Program&message=Go&color=blue"/>
+  <a href="https://blog.csdn.net/SeasonedDriverDG"><img src="https://img.shields.io/static/v1?label=Blog&message=CSDN&color=red"/></a>
 </p>
 
 ![](https://stats.justsong.cn/api/csdn?id=SeasonedDriverDG&theme=light)
