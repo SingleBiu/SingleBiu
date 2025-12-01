@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 # Hi 🎉 Welcome to SingleBiu's Github Homepage!
-My website:  <a href="https://sakifox.com">Sakifox.com</a>
 
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome,%20visitor!;Hello%20Github%20World!&font=Roboto" />
 
